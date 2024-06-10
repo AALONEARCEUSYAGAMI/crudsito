@@ -58,6 +58,7 @@ include ("header/header.php");
 </div>
 <button class= "btn btn-success" name="update">Actualizar</button>
 
+<button></button>
 </form>
 
 
